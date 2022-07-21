@@ -6,6 +6,7 @@ public class HighCharts {
 	{
 		int i=10;
 		System.out.println(""+i);
+		System.out.println("Hello");
 	}
 	
 
